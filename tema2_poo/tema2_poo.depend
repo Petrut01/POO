@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1588779557 source:c:\codeblocks\tema2_poo\main.cpp
+	<iostream>
+	<cstring>
+	<time.h>
+
