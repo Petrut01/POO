@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1589748308 source:c:\codeblocks\tema3poo\main.cpp
+	<iostream>
+	<typeinfo>
+	<cstring>
+	<vector>
+
